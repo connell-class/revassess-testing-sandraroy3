@@ -24,7 +24,6 @@ public class Answer1Tests {
         assertTrue(CompareStrings.compareStrings("gentleman", "gentleman"));
         assertFalse(CompareStrings.compareStrings("jekyll", "hyde"));
         assertFalse(CompareStrings.compareStrings("giraffes", "real"));
-        //System.out.println("Correct");
         addPoints(10);
     }
 

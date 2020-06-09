@@ -23,6 +23,6 @@ public void print(){
 }
     @Test
     public void MoveOn(){
-        assertTrue(getPoints()>=60);
+        assertTrue(points>=60);
     }   
 }
